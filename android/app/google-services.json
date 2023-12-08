@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247216793432",
+    "project_id": "fir-bloc-tutorial-a9df0",
+    "storage_bucket": "fir-bloc-tutorial-a9df0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247216793432:android:69dd27889cfee42f72272d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_project_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_aQJD5JHvdmCji1n9NjLzP-dqsQtJJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
